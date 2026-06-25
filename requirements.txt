@@ -1,0 +1,8 @@
+streamlit
+earthengine-api
+geemap
+python-box==6.1.0
+streamlit-folium
+folium
+pandas
+xyzservices
